@@ -1,4 +1,4 @@
-#Re-tweet Graph
+#webpack reflux boilerplate
 
 Proyecto en el que se conjuntan Reflux, ReactJs y webpack.
 
